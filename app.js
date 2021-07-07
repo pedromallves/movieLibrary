@@ -1,4 +1,4 @@
-const movies = require('./database')
+const movies = require('./database.json')
 
 const readLine = require('readline-sync')
 console.log('Hello, we have a list with some movie information here')
